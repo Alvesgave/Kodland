@@ -4,6 +4,6 @@ Este proyecto incluye un juego llamado cazadores, el objetivo es eliminar los mo
 
 Como jugar:
 
-Con las flechas del teclado podrás mover tu cazador hacia arriba y abajo. /n
+Con las flechas del teclado podrás mover tu cazador hacia arriba y abajo.
 Con la tecla espaciadora podrás disparar tu arma.
 Cada vez que impactes un monstruo ganaras un punto, el objetivo del juego es ganar la mayor cantidad de puntos posible.
